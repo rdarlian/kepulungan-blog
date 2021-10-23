@@ -57,7 +57,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Berita</h2>
+          <h2>Koran</h2>
           <h2>Seputar Desa <span>Kepulungan</span></h2>
 
         </div>
