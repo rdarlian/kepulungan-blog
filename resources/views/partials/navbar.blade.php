@@ -11,7 +11,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link {{ ($active === "profil") ? 'active' : '' }}" href="/profil">Profil Desa</a>
+            <a class="nav-link {{ ($active === "profil") ? 'active' : '' }}" href="/profil">Desa</a>
           </li>
           <li class="nav-item">
             <a class="nav-link {{ ($active === "galery") ? 'active' : '' }}" href="/galery">Galery</a>
